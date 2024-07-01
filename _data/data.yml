@@ -46,7 +46,7 @@ sidebar:
         - item: Diving
           link:
 
-        - item: Snowboarding
+        - item: Reading
           link:
 
         - item: Cooking
@@ -63,26 +63,35 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Mathematical Analysis
+        university: Ganja State Univesity
+        time: 2009 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+           I underwent comprehensive and rigorous training in the theoretical and applied aspects of mathematical analysis, 
+           encompassing real and complex analysis, functional analysis, and differential equations. 
+           Through specialized elective coursework in harmonic analysis and probability theory, I further honed my expertise. 
+           Engaging in collaborative research projects with esteemed faculty allowed me to contribute to cutting-edge advancements in the field. 
+           The program substantially bolstered my analytical, problem-solving, and computational capabilities, 
+           equipping me for complex technical roles in industry. This intensive two-year program,
+           which demanded a robust foundation in undergraduate-level analysis and algebra, 
+           was pivotal in my professional and academic development.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Mathematics
+        university: Azerbaijan State Pedagogy University
+        time: 2004 - 2008
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          The Bachelor's program in Mathematics provided me with a broad and solid foundation 
+          in various mathematical disciplines, including calculus, linear algebra, discrete mathematics, 
+          and differential equations. Advanced coursework in abstract algebra, real analysis, 
+          and probability theory deepened my understanding and analytical skills. 
+          Through research projects and independent studies, 
+          I engaged with current mathematical research and practical applications. 
+          This experience significantly enhanced my critical thinking, problem-solving, 
+          and quantitative reasoning abilities. The comprehensive four-year program, 
+          tailored for those with a strong interest in mathematics, prepared me for 
+          diverse career paths in academia, industry, finance, and technology, as well 
+          as for advanced studies.
             - Bullet point
             - Bullet point
 
