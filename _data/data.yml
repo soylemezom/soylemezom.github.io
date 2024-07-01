@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mustafa Soylemezo
+    tagline: Devops Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: soylemezom@gmail.com
+    phone: +1 317 258 87 44
+    timezone: Eastern
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: 
+    linkedin: soylemezom
+    xing: 
+    github: soylemezom
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,18 +34,16 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Turkish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Diving
           link:
 
         - item: Snowboarding
@@ -57,12 +55,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Passionate and results-driven IT professional seeking a junior DevOps position in the field of DevOps. 
+     Dedicated to leveraging automation, continuous integration, and infrastructure as code to optimize operational efficiency. 
+     Experienced in Ansible, Jenkins, Docker, and Kubernetes, with a strong understanding of network infrastructure and networking concepts. 
+     Eager to contribute to a dynamic team, drive process improvements, and support the delivery of high-quality software products.
+
 education:
     title: Education
     info:
