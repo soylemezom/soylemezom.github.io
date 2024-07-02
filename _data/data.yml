@@ -59,7 +59,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Post Graduate Program
+      - degree: Post Graduate Program in Devops
         university: Purdue University 
         time: 2023 - 2024
         details: |
@@ -70,52 +70,25 @@ education:
         university: Ganja State Univesity
         time: 2009 - 2011
         details: |
-           <p>I underwent comprehensive and rigorous training in the theoretical and applied aspects of mathematical analysis, 
-           encompassing real and complex analysis, functional analysis, and differential equations. 
-           Through specialized elective coursework in harmonic analysis and probability theory, I further honed my expertise. 
-           Engaging in collaborative research projects with esteemed faculty allowed me to contribute to cutting-edge advancements in the field. 
-           The program substantially bolstered my analytical, problem-solving, and computational capabilities, 
-           equipping me for complex technical roles in industry. This intensive two-year program,
-           which demanded a robust foundation in undergraduate-level analysis and algebra, 
-           was pivotal in my professional and academic development.<p>
-            - Bullet point
-            - Bullet point
+    
       - degree: BSc in Mathematics
         university: Azerbaijan State Pedagogy University
         time: 2004 - 2008
         details: |
-          The Bachelor's program in Mathematics provided me with a broad and solid foundation 
-          in various mathematical disciplines, including calculus, linear algebra, discrete mathematics, 
-          and differential equations. Advanced coursework in abstract algebra, real analysis, 
-          and probability theory deepened my understanding and analytical skills. 
-          Through research projects and independent studies, 
-          I engaged with current mathematical research and practical applications. 
-          This experience significantly enhanced my critical thinking, problem-solving, 
-          and quantitative reasoning abilities. The comprehensive four-year program, 
-          tailored for those with a strong interest in mathematics, prepared me for 
-          diverse career paths in academia, industry, finance, and technology, as well 
-          as for advanced studies.
-            - Bullet point
-            - Bullet point
-      
+          
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Devops Engineer
+        time: 2023 - Present
+        company: Edureka and Freelance
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          · Created and implemented 4 new DevOps pipelines to deliver Infrastructure as Code
+· Built workflows to create immutable infrastructure in AWS
+· Developed 20+ automations for provisioning compute instances and storage
+· Developed 4 Ansible playbooks and automated the execution of routine Linux scripts
+· Provisioned resources in AWS using Cloud Formation Templates
+· Interacted and communicated with 10,000+ global customers, business users, and IT staff
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
