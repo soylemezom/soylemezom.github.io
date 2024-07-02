@@ -55,10 +55,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Passionate and results-driven IT professional seeking a junior DevOps position in the field of DevOps. 
+     <p>Passionate and results-driven IT professional seeking a junior DevOps position in the field of DevOps. 
      Dedicated to leveraging automation, continuous integration, and infrastructure as code to optimize operational efficiency. 
      Experienced in Ansible, Jenkins, Docker, and Kubernetes, with a strong understanding of network infrastructure and networking concepts. 
-     Eager to contribute to a dynamic team, drive process improvements, and support the delivery of high-quality software products.
+     Eager to contribute to a dynamic team, drive process improvements, and support the delivery of high-quality software products.<p>
 
 education:
     title: Education
@@ -67,14 +67,14 @@ education:
         university: Ganja State Univesity
         time: 2009 - 2011
         details: |
-           I underwent comprehensive and rigorous training in the theoretical and applied aspects of mathematical analysis, 
+           <p>I underwent comprehensive and rigorous training in the theoretical and applied aspects of mathematical analysis, 
            encompassing real and complex analysis, functional analysis, and differential equations. 
            Through specialized elective coursework in harmonic analysis and probability theory, I further honed my expertise. 
            Engaging in collaborative research projects with esteemed faculty allowed me to contribute to cutting-edge advancements in the field. 
            The program substantially bolstered my analytical, problem-solving, and computational capabilities, 
            equipping me for complex technical roles in industry. This intensive two-year program,
            which demanded a robust foundation in undergraduate-level analysis and algebra, 
-           was pivotal in my professional and academic development.
+           was pivotal in my professional and academic development.<p>
             - Bullet point
             - Bullet point
       - degree: BSc in Mathematics
