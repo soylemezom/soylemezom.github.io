@@ -59,6 +59,13 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: Post Graduate Program
+        university: Purdue University 
+        time: 2023 - 2024
+        details: |
+          Devops Engineering Post Graduate Program
+           - Bullet point
+           - Bullet point
       - degree: MSc in Mathematical Analysis
         university: Ganja State Univesity
         time: 2009 - 2011
@@ -90,13 +97,7 @@ education:
           as for advanced studies.
             - Bullet point
             - Bullet point
-        - degree: Post Graduate Program
-        university: Purdue University 
-        time: 2023 - 2024
-        details: |
-          Devops Engineering Post Graduate Program
-           - Bullet point
-           - Bullet point
+      
 experiences:
     title: Experiences
     info:
