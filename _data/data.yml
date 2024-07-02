@@ -90,12 +90,13 @@ education:
           as for advanced studies.
             - Bullet point
             - Bullet point
-            
-        - degree: Professional Certificate
+        - degree: Post Graduate Program
         university: Purdue University 
         time: 2023 - 2024
         details: |
           Devops Engineering Post Graduate Program
+           - Bullet point
+           - Bullet point
 experiences:
     title: Experiences
     info:
