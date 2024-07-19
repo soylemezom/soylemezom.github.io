@@ -144,8 +144,7 @@ projects:
       <p>Developing a CI/CD pipeline to automate software development, testing, packaging, and deployment processes. 
       Pushing code to GitHub repository. Creating a Jenkins pipeline for compiling, testing, and packaging code. 
       Writing Dockerfiles to deploy the WAR file to the Tomcat server. Integrating Docker with Ansible and writing 
-      playbooks for deployment. 
-      Deploying artifacts to the Kubernetes cluster. Monitoring resources using Grafana. 
+      playbooks for deployment.Deploying artifacts to the Kubernetes cluster. Monitoring resources using Grafana. 
       By implementing these initiatives,This Technology store aims to transform the acquired business's operations, 
       enhancing its competitiveness in the retail market and positioning it for sustained growth and success.<p>
 
