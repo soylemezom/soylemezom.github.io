@@ -81,7 +81,7 @@ experiences:
     info:
       - role: Devops Engineer
         time: 2023 - Present
-        company: Edureka and Freelance
+        company: Freelance
         details: |
          <p>Created and implemented 4 new DevOps pipelines to deliver Infrastructure as Code
          Built workflows to create immutable infrastructure in AWS
