@@ -89,8 +89,23 @@ experiences:
          Developed 4 Ansible playbooks and automated the execution of routine Linux scripts
          Provisioned resources in AWS using Cloud Formation Templates
          Interacted and communicated with many global customers, business users, and IT staff<p>
+
+      - role: IT Support
+        time: 2022-2023
+        company: Eman Schools Fishers
+        details: |
+        <p>Experience with installation, maintenance and troubleshooting of K-12 educational technology and providing help desk 
+        assistance for staff and students.Ability to repair and maintain all types of hardware including, but not limited to, 
+        Chromebooks, laptops, desktops & tablets.Knowledge of Chrome OS and Windows 10, as well as familiarity with Google Apps, 
+        Office 365, Microsoft Teams and remote support tools.Exhibit strong organizational skills and familiarity with IT work order 
+        and inventory systems.Excellent communication and collaborative skills; ability to work independently and cooperatively with 
+        staff, students and other members of the Technology Department.Installs, configures, and supports new computers and software, 
+        including peripheral hardware and mobile devicesInstalls, upgrades, and maintains a variety of software applications and computer 
+        hardware, including peripherals;Diagnoses, troubleshoots, and repairs software and hardware problems; Performs backup activities 
+        and restoration of files on internal servers; Participates in testing and implementation of new systems and procedures;
+
       - role: Software Engineer in Test
-        time: 2022
+        time: 2021-2022
         company: The Fix Solutions
         details: |
           
@@ -98,6 +113,12 @@ experiences:
         time: 2018 - 2021
         company: Horizon Education
         details: |
+        <p>Experienced professional skilled in evaluating website and software accessibility, 
+        conducting manual testing, and utilizing automated tools. Proven track record in maintaining 
+        software functionality, collaborating with developers, and addressing user issues. 
+        Proficient in enhancing user experiences, providing teacher training, and conducting thorough 
+        testing on educational applications. Adept in defect management, requirement tracking, and user support. 
+        Dedicated to ensuring quality and accessibility in digital solutions.<p>
           
 
 certifications:
