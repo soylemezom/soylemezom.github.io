@@ -123,7 +123,7 @@ certifications:
            
 
 projects:
-    title: Modernizing Retail Operations with DevOps for an online retail business
+    title: DevOps Transformation for Optimized E-Commerce Retail Operations
     intro: >
       <p>Developing a CI/CD pipeline to automate software development, testing, packaging, and deployment processes. 
       Pushing code to GitHub repository. Creating a Jenkins pipeline for compiling, testing, and packaging code. 
@@ -132,10 +132,19 @@ projects:
       By implementing these initiatives,This Technology store aims to transform the acquired business's operations, 
       enhancing its competitiveness in the retail market and positioning it for sustained growth and success.<p>
 
-    assignments:
-      - title:
-        link: ""
-        tagline: ""
+    title: Deploying a Guest Book Application on IBM Cloud
+    intro: >
+    <p>This DevOps project aims to deploy a guest book application on IBM Cloud, 
+    leveraging automation and best practices for efficiency and reliability. 
+    We will set up source control with Git, configure CI pipelines using Jenkins 
+    to automate build and test processes, and containerize the application with Docker, 
+    storing images in IBM Cloud Container Registry. Infrastructure provisioning will be 
+    managed through Terraform, and CD pipelines will deploy the application to 
+    IBM Cloud Kubernetes Service (IKS) using Helm charts. Monitoring and logging will be
+    implemented with IBM Cloud Monitoring and LogDNA, while security practices and compliance 
+    checks will be integrated into the CI/CD pipeline using IBM Cloud Security Advisor. 
+    This approach ensures automated, scalable, and secure deployments, enhancing the overall
+    operational effectiveness of the application.<p>
 
 
 oss:
