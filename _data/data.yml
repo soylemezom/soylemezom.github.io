@@ -140,7 +140,7 @@ certifications:
 
 projects:
     title: DevOps Transformation for Optimized E-Commerce Retail Operations
-    intro: |
+    intro: >
       <p>Developing a CI/CD pipeline to automate software development, testing, packaging, and deployment processes. 
       Pushing code to GitHub repository. Creating a Jenkins pipeline for compiling, testing, and packaging code. 
       Writing Dockerfiles to deploy the WAR file to the Tomcat server. Integrating Docker with Ansible and writing 
