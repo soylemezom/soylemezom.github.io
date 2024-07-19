@@ -92,17 +92,17 @@ experiences:
 
       - role: IT Support
         time: 2022-2023
-        company: Eman Schools Fishers
+        company: Eman Schools 
         details: |
-        <p>Experience with installation, maintenance and troubleshooting of K-12 educational technology and providing help desk 
-        assistance for staff and students.Ability to repair and maintain all types of hardware including, but not limited to, 
-        Chromebooks, laptops, desktops & tablets.Knowledge of Chrome OS and Windows 10, as well as familiarity with Google Apps, 
-        Office 365, Microsoft Teams and remote support tools.Exhibit strong organizational skills and familiarity with IT work order 
-        and inventory systems.Excellent communication and collaborative skills; ability to work independently and cooperatively with 
-        staff, students and other members of the Technology Department.Installs, configures, and supports new computers and software, 
-        including peripheral hardware and mobile devicesInstalls, upgrades, and maintains a variety of software applications and computer 
-        hardware, including peripherals;Diagnoses, troubleshoots, and repairs software and hardware problems; Performs backup activities 
-        and restoration of files on internal servers; Participates in testing and implementation of new systems and procedures<p>
+         <p>Experience with installation, maintenance and troubleshooting of K-12 educational technology and providing help desk 
+         assistance for staff and students.Ability to repair and maintain all types of hardware including, but not limited to 
+         Chromebooks, laptops, desktops & tablets.Knowledge of Chrome OS and Windows 10, as well as familiarity with Google Apps 
+         Office 365, Microsoft Teams and remote support tools.Exhibit strong organizational skills and familiarity with IT work order 
+         and inventory systems.Excellent communication and collaborative skills; ability to work independently and cooperatively with 
+         staff, students and other members of the Technology Department.Installs, configures, and supports new computers and software
+         including peripheral hardware and mobile devicesInstalls, upgrades, and maintains a variety of software applications and computer 
+         hardware, including peripherals;Diagnoses, troubleshoots, and repairs software and hardware problems; Performs backup activities 
+         and restoration of files on internal servers; Participates in testing and implementation of new systems and procedures<p>
 
       - role: Software Engineer in Test
         time: 2021-2022
@@ -113,12 +113,12 @@ experiences:
         time: 2018 - 2021
         company: Horizon Education
         details: |
-        <p>Experienced professional skilled in evaluating website and software accessibility, 
-        conducting manual testing, and utilizing automated tools. Proven track record in maintaining 
-        software functionality, collaborating with developers, and addressing user issues. 
-        Proficient in enhancing user experiences, providing teacher training, and conducting thorough 
-        testing on educational applications. Adept in defect management, requirement tracking, and user support. 
-        Dedicated to ensuring quality and accessibility in digital solutions.<p>
+         <p>Experienced professional skilled in evaluating website and software accessibility, 
+         conducting manual testing, and utilizing automated tools. Proven track record in maintaining 
+         software functionality, collaborating with developers, and addressing user issues. 
+         Proficient in enhancing user experiences, providing teacher training, and conducting thorough 
+         testing on educational applications. Adept in defect management, requirement tracking, and user support. 
+         Dedicated to ensuring quality and accessibility in digital solutions.<p>
           
 
 certifications:
@@ -156,17 +156,17 @@ projects:
 
     title: Deploying a Guest Book Application on IBM Cloud
     intro: >
-    <p>This DevOps project aims to deploy a guest book application on IBM Cloud, 
-    leveraging automation and best practices for efficiency and reliability. 
-    We will set up source control with Git, configure CI pipelines using Jenkins 
-    to automate build and test processes, and containerize the application with Docker, 
-    storing images in IBM Cloud Container Registry. Infrastructure provisioning will be 
-    managed through Terraform, and CD pipelines will deploy the application to 
-    IBM Cloud Kubernetes Service (IKS) using Helm charts. Monitoring and logging will be
-    implemented with IBM Cloud Monitoring and LogDNA, while security practices and compliance 
-    checks will be integrated into the CI/CD pipeline using IBM Cloud Security Advisor. 
-    This approach ensures automated, scalable, and secure deployments, enhancing the overall
-    operational effectiveness of the application.<p>
+     <p>This DevOps project aims to deploy a guest book application on IBM Cloud, 
+     leveraging automation and best practices for efficiency and reliability. 
+     We set up source control with Git, configure CI pipelines using Jenkins 
+     to automate build and test processes, and containerize the application with Docker, 
+     storing images in IBM Cloud Container Registry. Infrastructure provisioning will be 
+     managed through Terraform, and CD pipelines will deploy the application to 
+     IBM Cloud Kubernetes Service (IKS) using Helm charts. Monitoring and logging will be
+     implemented with IBM Cloud Monitoring and LogDNA, while security practices and compliance 
+     checks will be integrated into the CI/CD pipeline using IBM Cloud Security Advisor. 
+     This approach ensures automated, scalable, and secure deployments, enhancing the overall
+     operational effectiveness of the application.<p>
 
 
 oss:
