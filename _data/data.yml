@@ -171,10 +171,10 @@ skills:
         level: 95%
 
       - name: Jenkins
-        level: 90%
+        level: 70%
 
       - name: Ansible
-        level: 90%
+        level: 80%
 
       - name: Docker
         level: 90%
