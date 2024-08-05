@@ -136,39 +136,33 @@ certifications:
           credentialurl: 
           credentialname:
           details: |
-           
+           projects:
+  - title: DevOps Transformation for Optimized E-Commerce Retail Operations
+    intro: |
+      <p>In this project, we developed a CI/CD pipeline to automate the software development lifecycle, including development, testing, packaging, and deployment. Key tasks included:</p>
+      <ul>
+        <li>Pushing code to a GitHub repository.</li>
+        <li>Creating a Jenkins pipeline for compiling, testing, and packaging code.</li>
+        <li>Writing Dockerfiles to deploy the WAR file to a Tomcat server.</li>
+        <li>Integrating Docker with Ansible and writing playbooks for deployment.</li>
+        <li>Deploying artifacts to a Kubernetes cluster.</li>
+        <li>Monitoring resources using Grafana.</li>
+      </ul>
+      <p>These initiatives transformed the operations of a technology store, enhancing its competitiveness in the retail market and positioning it for sustained growth and success.</p>
 
-<!-- DevOps Transformation for Optimized E-Commerce Retail Operations -->
-<div>
-  <h2>DevOps Transformation for Optimized E-Commerce Retail Operations</h2>
-  <p>In this project, we developed a CI/CD pipeline to automate the software development lifecycle, including development, testing, packaging, and deployment. Key tasks included:</p>
-  <ul>
-    <li>Pushing code to a GitHub repository.</li>
-    <li>Creating a Jenkins pipeline for compiling, testing, and packaging code.</li>
-    <li>Writing Dockerfiles to deploy the WAR file to a Tomcat server.</li>
-    <li>Integrating Docker with Ansible and writing playbooks for deployment.</li>
-    <li>Deploying artifacts to a Kubernetes cluster.</li>
-    <li>Monitoring resources using Grafana.</li>
-  </ul>
-  <p>These initiatives transformed the operations of a technology store, enhancing its competitiveness in the retail market and positioning it for sustained growth and success.</p>
-</div>
-
-<!-- Deploying a Guest Book Application on IBM Cloud -->
-<div>
-  <h2>Deploying a Guest Book Application on IBM Cloud</h2>
-  <p>This project involved deploying a guest book application on IBM Cloud, emphasizing automation and best practices for efficiency and reliability. The key steps included:</p>
-  <ul>
-    <li>Setting up source control with Git.</li>
-    <li>Configuring CI pipelines using Jenkins to automate build and test processes.</li>
-    <li>Containerizing the application with Docker and storing images in IBM Cloud Container Registry.</li>
-    <li>Managing infrastructure provisioning with Terraform.</li>
-    <li>Deploying the application to IBM Cloud Kubernetes Service (IKS) using Helm charts.</li>
-    <li>Implementing monitoring and logging with IBM Cloud Monitoring and LogDNA.</li>
-    <li>Integrating security practices and compliance checks into the CI/CD pipeline using IBM Cloud Security Advisor.</li>
-  </ul>
-  <p>This approach ensured automated, scalable, and secure deployments, enhancing the operational effectiveness of the application.</p>
-</div>
-
+  - title: Deploying a Guest Book Application on IBM Cloud
+    intro: |
+      <p>This project involved deploying a guest book application on IBM Cloud, emphasizing automation and best practices for efficiency and reliability. The key steps included:</p>
+      <ul>
+        <li>Setting up source control with Git.</li>
+        <li>Configuring CI pipelines using Jenkins to automate build and test processes.</li>
+        <li>Containerizing the application with Docker and storing images in IBM Cloud Container Registry.</li>
+        <li>Managing infrastructure provisioning with Terraform.</li>
+        <li>Deploying the application to IBM Cloud Kubernetes Service (IKS) using Helm charts.</li>
+        <li>Implementing monitoring and logging with IBM Cloud Monitoring and LogDNA.</li>
+        <li>Integrating security practices and compliance checks into the CI/CD pipeline using IBM Cloud Security Advisor.</li>
+      </ul>
+      <p>This approach ensured automated, scalable, and secure deployments, enhancing the operational effectiveness of the application.</p>
 
 skills:
     title: Skills &amp; Proficiency
