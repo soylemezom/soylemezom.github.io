@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: assets/Devops Msoylemezo.pdf
+    pdf: assets/devops resume.pdf
 
     languages:
       title: Languages
