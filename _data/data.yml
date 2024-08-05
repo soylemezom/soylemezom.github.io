@@ -163,24 +163,6 @@ projects:
       operational effectiveness of the application.</p>
 
 
-oss:
-    title: OSS Contributions
-    intro: >
-    
-    contributions:
-      - title: 
-        link: ""
-        tagline: ""
-
-      - title: 
-        link: ""
-        tagline: ""
-
-      - title: 
-        link: ""
-        tagline: 
-
-
 skills:
     title: Skills &amp; Proficiency
 
