@@ -139,8 +139,8 @@ certifications:
            
 
 projects:
-  - title: DevOps Transformation for Optimized E-Commerce Retail Operations
-    intro: >
+  - title:DevOps Transformation for Optimized E-Commerce Retail Operations
+    intro: 
       <p>Developing a CI/CD pipeline to automate software development, testing, packaging, and deployment processes.
       Pushing code to GitHub repository. Creating a Jenkins pipeline for compiling, testing, and packaging code.
       Writing Dockerfiles to deploy the WAR file to the Tomcat server. Integrating Docker with Ansible and writing
@@ -148,8 +148,8 @@ projects:
       By implementing these initiatives, This Technology store aims to transform the acquired business's operations,
       enhancing its competitiveness in the retail market and positioning it for sustained growth and success.</p>
 
-  - title: Deploying a Guest Book Application on IBM Cloud
-    intro: >
+  - title:Deploying a Guest Book Application on IBM Cloud
+    intro: 
       <p>This DevOps project aims to deploy a guest book application on IBM Cloud,
       leveraging automation and best practices for efficiency and reliability.
       We set up source control with Git, configure CI pipelines using Jenkins
